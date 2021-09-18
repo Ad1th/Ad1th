@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ad1th
+- 👀 I’m interested in Java, C, Python, Arduino (UNO and Mega preferrably), Rbpi (raspberry pi), Most Hardware, etc..
+- 🌱 I’m currently learning Java, C.
