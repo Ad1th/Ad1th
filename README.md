@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Ad1th
 - 👀 I’m interested in Microcontrollers, electronics, Robotics, etc...
 - 🌱 I’m currently learning Python, Java, and C++ (for Arduino).
+- Building konectus
+- 
