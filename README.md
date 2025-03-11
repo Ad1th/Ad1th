@@ -6,6 +6,8 @@
 
 - When I’m not coding or prototyping, you can find me cycling, diving into the world of robotics, exploring new tech trends, or collaborating with like-minded peers on innovative ideas. I’m always seeking opportunities in software development, web or app development, and projects that create a meaningful difference in the tech ecosystem and beyond.
 
+- I love hosting and taking part in hackathons.
+  
 - 👀 I’m interested in Microcontrollers, electronics, Robotics, etc...
   
 - 🌱 I’m currently coding in, and learning Python, JS, HTML, CSS, Java, C, and C++.
