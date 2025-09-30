@@ -9,7 +9,7 @@
 - I love hosting and taking part in hackathons.
   
 - 👀 I’m interested in Microcontrollers, electronics, Robotics, etc...
-  
+
 - 🌱 I’m currently coding in, and learning Python, JS, HTML, CSS, Java, C, and C++.
   
 - Building konectus
