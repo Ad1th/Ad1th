@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ad1th.Ad1th&"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -18,7 +12,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @Ad1th<br><br>As a Computer Engineering student with a passion for robotics, technology, and software development, I thrive at the intersection of innovation and impact. My journey so far has been an exciting blend of learning and building, from developing Chrome extensions and productivity tools to participating in hackathons that push the boundaries of creativity and teamwork.<br><br>I specialize in creating scalable, user-focused solutions using tools like Supabase, while continuously exploring new ways to solve real-world problems. My projects reflect a commitment to enhancing productivity, building community platforms, and making technology more accessible and impactful. With a knack for problem-solving and a drive to make a difference, I’m especially interested in projects that blend technology with social good, like mental health support systems and productivity enhancement tools.<br><br>When I’m not coding or prototyping, you can find me cycling, diving into the world of robotics, exploring new tech trends, or collaborating with like-minded peers on innovative ideas. I’m always seeking opportunities in software development, web or app development, and projects that create a meaningful difference in the tech ecosystem and beyond.<br><br>I love hosting and taking part in hackathons.<br><br>👀 I’m interested in Microcontrollers, electronics, Robotics, etc...<br><br>🌱 I’m currently coding in, and learning Python, JS, HTML, CSS, Java, C, and C++.<br><br>Building konectus</p>
+<p align="left">As a Computer Engineering student with a passion for robotics, technology, and software development, I thrive at the intersection of innovation and impact. My journey so far has been an exciting blend of learning and building, from developing Chrome extensions and productivity tools to participating in hackathons that push the boundaries of creativity and teamwork.<br><br>I specialize in creating scalable, user-focused solutions using tools like Supabase, while continuously exploring new ways to solve real-world problems. My projects reflect a commitment to enhancing productivity, building community platforms, and making technology more accessible and impactful. With a knack for problem-solving and a drive to make a difference, I’m especially interested in projects that blend technology with social good, like mental health support systems and productivity enhancement tools.<br><br>When I’m not coding or prototyping, you can find me cycling, diving into the world of robotics, exploring new tech trends, or collaborating with like-minded peers on innovative ideas. I’m always seeking opportunities in software development, web or app development, and projects that create a meaningful difference in the tech ecosystem and beyond.<br><br>I love hosting and taking part in hackathons.<br><br>👀 I’m interested in Microcontrollers, electronics, Robotics, etc...<br><br>🌱 I’m currently coding in, and learning Python, JS, HTML, CSS, Java, C, and C++.<br><br>Building konectus</p>
 
 ###
 
@@ -133,12 +127,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -149,9 +137,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ad1th/Ad1th/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ad1th.Ad1th&"  />
+</div>
 
 ###
 
