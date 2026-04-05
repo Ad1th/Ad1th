@@ -12,7 +12,13 @@
 
 ###
 
-<p align="left">As a Computer Engineering student with a passion for robotics, technology, and software development, I thrive at the intersection of innovation and impact. My journey so far has been an exciting blend of learning and building, from developing Chrome extensions and productivity tools to participating in hackathons that push the boundaries of creativity and teamwork.<br><br>I specialize in creating scalable, user-focused solutions using tools like Supabase, while continuously exploring new ways to solve real-world problems. My projects reflect a commitment to enhancing productivity, building community platforms, and making technology more accessible and impactful. With a knack for problem-solving and a drive to make a difference, I’m especially interested in projects that blend technology with social good, like mental health support systems and productivity enhancement tools.<br><br>When I’m not coding or prototyping, you can find me cycling, diving into the world of robotics, exploring new tech trends, or collaborating with like-minded peers on innovative ideas. I’m always seeking opportunities in software development, web or app development, and projects that create a meaningful difference in the tech ecosystem and beyond.<br><br>I love hosting and taking part in hackathons.<br><br>👀 I’m interested in Microcontrollers, electronics, Robotics, etc...<br><br>🌱 I’m currently coding in, and learning Python, JS, HTML, CSS, Java, C, and C++.<br><br>Building konectus</p>
+<p align="left">CSE student at VIT Vellore who enjoys building systems that actually hold up under real world use, whether that’s handling scale, reducing latency, or making things easier to debug.
+<br><br>
+I naturally gravitate towards backend engineering, distributed systems, and performance focused development, while also exploring robotics and hardware systems where software meets the physical world. I like understanding how things work under the hood and improving them, not just making them work.
+<br><br>
+Most of what I learn comes from building, experimenting with ideas, breaking things, and iterating fast. I’m comfortable working across FastAPI, Node.js, TypeScript, databases, and modern tooling, and I enjoy collaborating in hackathons and team environments where ideas quickly turn into real products.
+<br><br>
+Currently exploring deeper into systems design, reliability, and high performance data workflows.</p>
 
 ###
 
