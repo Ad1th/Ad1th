@@ -22,6 +22,16 @@ Currently exploring deeper into systems design, reliability, and high performanc
 
 ###
 
+<h3 align="left">🖥  What I'm building</h3>
+
+###
+
+<p align="left"><a href="https://github.com/Ad1th/Renderd"><b>Renderd</b></a>: a free, open source app that turns a Windows PC into a second monitor for a Mac. Written in Rust, it streams peer to peer over QUIC with hardware encode on the Mac and hardware decode on Windows, so there is no cloud relay and no subscription.
+<br><br>
+<a href="https://renderd.vercel.app">Website</a> · <a href="https://github.com/Ad1th/Renderd">Source</a></p>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
